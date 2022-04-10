@@ -3,6 +3,6 @@ Basic Programming for Data Science and Data Visualization : ชลธาดา �
 
 
 # Project
-*[Power Point](https://github.com/Ppangchon/data_viz_2022/blob/main/Present-Project.pdf)
+*[Power Point](https://github.com/Ppangchon/data_viz_2022/blob/main/Present-Project.pdf)*
 
-*[Dashboard](https://github.com/Ppangchon/data_viz_2022/blob/main/Project_Final.ipynb)
+*[Dashboard](https://github.com/Ppangchon/data_viz_2022/blob/main/Project_Final.ipynb)*
