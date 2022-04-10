@@ -9,5 +9,6 @@ Basic Programming for Data Science and Data Visualization : ชลธาดา �
 
 
 # Exam Final
-
 [Colab](https://github.com/Ppangchon/data_viz_2022/blob/main/FinalExamGroupCleme.ipynb)
+
+[Dashboard](https://datastudio.google.com/reporting/c7a68491-3e9b-45a8-b798-8ee29004d4f7)
